@@ -5,7 +5,7 @@
 This repository contains a Power BI performance dashboard designed to analyze Total Sales vs Target over time. It provides interactive visualizations to help organizations assess their performance across multiple dimensions like time, region, and sales personnel.
 
 
-![Dashboard Screenshot](Screenshot%202025-06-16%20123909.png)
+![Dashboard Screenshot](https://github.com/arko1907/Targets_Achievements_KPI/blob/b4404be79e94ff88ac90b9feddc00ee4c41acd93/Screenshot%202025-06-16%20123909.png)
 
 
 

@@ -1,10 +1,9 @@
 
+# Performance Dashboard - Sales Analysis 📊📈
 
 ## 📋 Overview
 This repository contains a Power BI performance dashboard designed to analyze Total Sales vs Target over time. It provides interactive visualizations to help organizations assess their performance across multiple dimensions like time, region, and sales personnel.
 
-
-# Performance Dashboard - Sales Analysis 📊📈
 
 ![Dashboard Screenshot](Screenshot%202025-06-16%20123909.png)
 
